@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 
     private CharacterController charController;
 
-    private float moveSpeed = 5f;
+    private float moveSpeed = 20f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
