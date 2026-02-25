@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|c:\\users\\babac\\documents\\college\\year 3\\semester 2\\cse 4410 game programming\\midterms\\game_programming_midterm\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
               "ToolTip": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\SceneController.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T21:13:52.186Z",
               "EditorCaption": ""
@@ -111,7 +111,8 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T04:18:31.273Z"
+              "WhenOpened": "2026-02-20T04:18:31.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

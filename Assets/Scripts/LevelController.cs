@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -19,6 +20,9 @@ public class LevelController : MonoBehaviour
     private int currentWave = 0;
     private List<GameObject> activeEnemies = new List<GameObject>();
 
+    public static event Action<int> onNextWave;
+    public static event Action onCompleteWave;
+
     void Start()
     {
         StartCoroutine(SpawnWaves());
@@ -34,7 +38,7 @@ public class LevelController : MonoBehaviour
             for (int i = 0; i < wave.enemyCount; i++)
             {
                 // select a random spawn point for each enemy to appear in
-                Transform spawnPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
+                Transform spawnPoint = spawnPoints[UnityEngine.Random.Range(0, spawnPoints.Length)];
                 GameObject enemy = Instantiate(wave.enemyPrefab, spawnPoint.position, Quaternion.identity);
                 activeEnemies.Add(enemy); // add the instanitated enemy to the list of active enemies
                 yield return new WaitForSeconds(spawnDelay); // this is a pause before making the next enemy in a wave...
@@ -53,8 +57,10 @@ public class LevelController : MonoBehaviour
             yield return new WaitForSeconds(waveDelay);
 
             currentWave++;
+            onNextWave?.Invoke(currentWave);
         }
 
+        onCompleteWave?.Invoke();
         Debug.Log("All waves completed!");
     }
 }
