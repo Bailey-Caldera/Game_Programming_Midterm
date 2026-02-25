@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|c:\\users\\babac\\documents\\college\\year 3\\semester 2\\cse 4410 game programming\\midterms\\game_programming_midterm\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|c:\\users\\babac\\documents\\college\\year 3\\semester 2\\cse 4410 game programming\\midterms\\game_programming_midterm\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|c:\\users\\babac\\documents\\college\\year 3\\semester 2\\cse 4410 game programming\\midterms\\game_programming_midterm\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CA2A3F-4318-4C17-B4D8-DE28E463E7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:18:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:18:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\babac\\Documents\\College\\Year 3\\Semester 2\\CSE 4410 Game Programming\\Midterms\\Game_Programming_Midterm\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:34:49.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

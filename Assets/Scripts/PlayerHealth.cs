@@ -25,8 +25,8 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player dead!");
         // Add respawn, scene reload, or death animation here...
-        // Needs to be changed to something that DOESN'T break the game and the camera...
-        Destroy(gameObject);
+        
+        gameObject.SetActive(false);
     }
 }
 
