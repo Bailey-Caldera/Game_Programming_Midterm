@@ -15,18 +15,20 @@ public class StatusUIManager : MonoBehaviour
     private void OnEnable()
     {
         PlayerHealth.onPlayerDamage += UpdatePlayerHealth;
+        PlayerHealth.onHealthPackApplied += UpdatePlayerHealth;
         LevelController.onNextWave += UpdateWave;
     }
 
     private void OnDisable()
     {
         PlayerHealth.onPlayerDamage -= UpdatePlayerHealth;
+        PlayerHealth.onHealthPackApplied -= UpdatePlayerHealth;
         LevelController.onNextWave -= UpdateWave;
     }
 
-    private void UpdatePlayerHealth(int playerHealth)
+    private void UpdatePlayerHealth(int currentHP)
     {
-        healthText.text = $"Heatlh: {playerHealth}";
+        healthText.text = $"Health: {currentHP}";
     }
 
     private void UpdateWave(int wave)

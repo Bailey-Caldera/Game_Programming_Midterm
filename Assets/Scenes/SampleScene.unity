@@ -3093,6 +3093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHP: 5
+  currentHP: 0
 --- !u!1 &1474875631
 GameObject:
   m_ObjectHideFlags: 0

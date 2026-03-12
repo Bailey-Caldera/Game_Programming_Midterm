@@ -4,10 +4,12 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     public int maxHP = 5;
-    private int currentHP;
+    public int currentHP;
 
     public static event Action onPlayerDeath;
     public static event Action<int> onPlayerDamage;
+
+    public static event Action<int> onHealthPackApplied; 
 
     void Start()
     {
@@ -26,6 +28,16 @@ public class PlayerHealth : MonoBehaviour
         {
             onPlayerDeath?.Invoke();
         }
+    }
+
+    public void ApplyHealthPowerUp(int amount)
+    {
+        currentHP += amount;
+        if (currentHP > maxHP)
+            currentHP = maxHP;
+
+            onPlayerDamage?.Invoke(currentHP);
+            onHealthPackApplied?.Invoke(currentHP);
     }
 
     void Die()
