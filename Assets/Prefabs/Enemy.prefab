@@ -59,6 +59,8 @@ MonoBehaviour:
   drops:
   - PowerUp: {fileID: 6760775199809561348, guid: 819af2aaaa3769549b7ad998130e0585, type: 3}
     dropChance: 10
+  - PowerUp: {fileID: 6760775199809561348, guid: 5fd598a6dcb163a4a987733c74cff333, type: 3}
+    dropChance: 10
 --- !u!114 &2192122965153408129
 MonoBehaviour:
   m_ObjectHideFlags: 0

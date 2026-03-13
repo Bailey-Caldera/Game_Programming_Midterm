@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1464131964806556024}
   - component: {fileID: 388255457034079433}
   m_Layer: 0
-  m_Name: HealthPack
+  m_Name: SpeedBoost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -68,7 +68,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7ca1cf9c8081fd54898843fd0bf8e215, type: 2}
+  - {fileID: 2100000, guid: b29289ee47d2dbb45a6f941ff7ab1e39, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -125,4 +125,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f12f186f535065f48bcba1be19865da3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  PowerUpEffect: {fileID: 11400000, guid: 0ced9f6d1750ada45974d45512610bb6, type: 2}
+  PowerUpEffect: {fileID: 11400000, guid: 955f5c45910186e47953eeece7888b4d, type: 2}
