@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +8,8 @@ public class Enemy : MonoBehaviour
     private int currentHP;
 
     public List<PowerUpDrop> drops;
+
+    public static event Action onEnemyDeath;
 
     void Start()
     {
@@ -27,6 +30,7 @@ public class Enemy : MonoBehaviour
     void Die()
     {
         DropPowerUp();
+        onEnemyDeath?.Invoke();
         Destroy(gameObject);
     }
 
@@ -34,7 +38,7 @@ public class Enemy : MonoBehaviour
     {
         foreach (PowerUpDrop drop in drops)
         {
-            float dropchance = Random.Range(0f, 100f);
+            float dropchance = UnityEngine.Random.Range(0f, 100f);
 
             if (dropchance <= drop.dropChance)
             {
