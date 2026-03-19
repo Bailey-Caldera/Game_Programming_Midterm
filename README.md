@@ -9,7 +9,7 @@ This is the README for the Game Programming Midterm
 - Josh Swineford
 
 ## Game Name
-
+Duck Invasion
 
 ## Description 
 A top down shooter where you play as a pig surviving against waves of ducks. Throw apples to survive by left clicking
