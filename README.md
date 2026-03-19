@@ -2,6 +2,7 @@ This is the README for the Game Programming Midterm
 
 ## Group Members:
 - Bailey Caldera
+- Dominic Arrezola
 
 ## Game Name
 
