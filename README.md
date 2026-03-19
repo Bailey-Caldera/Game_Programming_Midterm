@@ -1,5 +1,15 @@
 This is the README for the Game Programming Midterm
 
+## Group Members:
+- Bailey Caldera
+
+## Game Name
+
+
+## Description 
+A top down shooter where you play as a pig surviving against the waves of ducks. Throw apples to survive by left clicking
+and throw big apples by right clicking.
+
 ## Goal:
 
     The goal of this project is to create a 3d unity game for our midterm
