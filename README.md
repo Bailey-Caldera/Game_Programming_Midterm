@@ -20,7 +20,8 @@ and throw big apples by right clicking.
     The goal of this project is to create a 3d unity game for our midterm
 
 ## Third Parties Asset:
-
+Tiny Texture Pack 2 by Screaming Brain Studios
+https://screamingbrainstudios.itch.io/tiny-texture-pack-2?download#google_vignette
 
 ## Design:
 
