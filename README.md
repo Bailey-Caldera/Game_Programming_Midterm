@@ -1,8 +1,12 @@
 This is the README for the Game Programming Midterm
 
 ## Group Members:
-- Bailey Caldera
 - Dominic Arrezola
+- Bailey Caldera
+- Broedy Crowell
+- Kevin Evans
+- Michael Reyes
+- Josh Swineford
 
 ## Game Name
 
