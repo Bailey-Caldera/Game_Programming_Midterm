@@ -14,6 +14,9 @@ and throw big apples by right clicking.
 
     The goal of this project is to create a 3d unity game for our midterm
 
+## Third Parties Asset:
+
+
 ## Design:
 
     This is an overhead view 3D Binding of Isac-like game
