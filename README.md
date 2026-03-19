@@ -7,7 +7,7 @@ This is the README for the Game Programming Midterm
 
 
 ## Description 
-A top down shooter where you play as a pig surviving against the waves of ducks. Throw apples to survive by left clicking
+A top down shooter where you play as a pig surviving against waves of ducks. Throw apples to survive by left clicking
 and throw big apples by right clicking.
 
 ## Goal:
