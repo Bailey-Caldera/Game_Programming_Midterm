@@ -15,10 +15,6 @@ Duck Invasion
 A top down shooter where you play as a pig surviving against waves of ducks. Throw apples to survive by left clicking
 and throw big apples by right clicking.
 
-## Goal:
-
-    The goal of this project is to create a 3d unity game for our midterm
-
 ## Third Parties Asset:
 Tiny Texture Pack 2 by Screaming Brain Studios:
 https://screamingbrainstudios.itch.io/tiny-texture-pack-2?download#google_vignette
@@ -28,6 +24,10 @@ https://free3d.com/3d-model/egg-v2--851304.html
 
 Match 3d Object Pack: Fruits & Vegetables by ThreeBox:
 https://assetstore.unity.com/packages/3d/props/food/match-3d-object-pack-fruits-vegetables-284706
+
+## Goal:
+
+    The goal of this project is to create a 3d unity game for our midterm
 
 ## Design:
 
