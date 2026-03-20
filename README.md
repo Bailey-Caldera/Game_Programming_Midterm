@@ -26,6 +26,9 @@ https://screamingbrainstudios.itch.io/tiny-texture-pack-2?download#google_vignet
 egg v2 3D Model by printable_models:
 https://free3d.com/3d-model/egg-v2--851304.html
 
+Match 3d Object Pack: Fruits & Vegetables by ThreeBox:
+https://assetstore.unity.com/packages/3d/props/food/match-3d-object-pack-fruits-vegetables-284706
+
 ## Design:
 
     This is an overhead view 3D Binding of Isac-like game
