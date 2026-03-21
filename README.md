@@ -25,6 +25,9 @@ https://free3d.com/3d-model/egg-v2--851304.html
 Match 3d Object Pack: Fruits & Vegetables by ThreeBox:
 https://assetstore.unity.com/packages/3d/props/food/match-3d-object-pack-fruits-vegetables-284706
 
+Animated Chicken, Duck and Pig - 3D LOW POLY Cubic:
+https://www.fab.com/listings/35ce01b6-72b7-49b9-883e-446a3e387761
+
 ## Goal:
 
     The goal of this project is to create a 3d unity game for our midterm
